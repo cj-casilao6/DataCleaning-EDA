@@ -35,6 +35,6 @@ Now that the data is clean, find valuable insights that would reveal some inform
 
 <img width="330" height="580" alt="image" src="https://github.com/user-attachments/assets/7f2c228a-ea78-4bc9-8a38-4678f03f87f9" />
 
-**Total number of employees laid off per company stage**
+**Total number of employees laid off per company stage**:
 
 <img width="184" height="293" alt="image" src="https://github.com/user-attachments/assets/acf3ad0d-385e-4b4c-9094-0a21edb7ca7e" />
